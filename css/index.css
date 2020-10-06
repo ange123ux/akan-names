@@ -1,0 +1,32 @@
+.title{
+    text-align: center;
+}
+.introduction{
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-wrap: wrap-reverse;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 300px;
+    /* border: 2px solid yellowgreen; */
+    padding: 2px;
+    margin: 2px;
+    text-align: center;  
+}
+.image{
+    margin-left:500px;
+    margin-top: 0px;
+    margin-bottom: -100px;
+    position: relative;
+    top: -95px;
+}
+body{
+    background-image: url(../images/flower.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    
+}
+
+    

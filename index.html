@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet">
+    <title>Akan Names</title>
+</head>
+<body>
+    
+    <div class="title">
+        <h1>Welcome on the page of Akan Names!</h1>
+    </div>
+    <div class="introduction">
+        <div class="image"><img src="images/yourname.jpg" height="160" width="180"></div>
+        <p>My name is Ange Uwimana, and I was born on Wednesday and my name in Ghanian culture is Akua!</p>
+    </div>
+    <p>Have you ever wondered a day on which you were born on? All is easy to know with Akan Names.</p>
+    <p>Akan Names are the names that are commonly derived from Ghanian culture, and they are given to the babies depending on the day that they are born on. For instance, if a baby boy is born on Tues, he is given a name of Kwabena. If it's a girl, she is given a name of Abena.</p>
+    <p>In the following form, type in your birthday month, date and year, and the click submit. You will immediately see the day you were born on and your Akan Name in Ghanian culture! Enjoy!</p>
+<form onclick="event.preventDefault()"><strong>Akan Names</strong><br>
+    <label for="date">Date</label><br>
+    <input type="text" id="date" name="date"><br>
+    <label for="month">Month</label><br>
+    <input type="text" id="month" name="mouth"><br>
+    <label for="year">Year</label><br>
+    <input type="text" id="year" name="year"><br>
+    <label for="gender" class="gender">Gender:</label>
+    <select id="gender" class="form-control form-control-sm">
+    <option>Male</option>
+    <option>Female</option>
+    </select><br>
+    <button type="button" class="btn btn danger" onclick="akanNames();">Check</button>
+</form>
+<p id="display"></p>
+<script src="index.js"></script>
+</body>
+</html>
