@@ -31,9 +31,14 @@ body{
 p{
     line-height: 1.5;
     letter-spacing: 3px;
+    color:white;
 }
 h1{
     letter-spacing: 2px;
+    color: white;
+}
+.container{
+    color: black;
 }
 
     
