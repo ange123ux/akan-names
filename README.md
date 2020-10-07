@@ -1,6 +1,6 @@
 # AKAN NAMES
 
-### Akan names are the names that are commonly found in Ghanaian culture and for the people to have them, it depends on the day they are born on, and the gender they have.For example, if a baby boby is born on Sunday, his akan name is Kwasi, and if it is a female, she is called Akosua!  10/07/2020
+### Akan names are the names that are commonly found in Ghanaian culture and for the people to have them, it depends on the day they are born on, and the gender they have. For example, if a baby boby is born on Sunday, his akan name is Kwasi, and if it is a female, she is called Akosua!  10/07/2020
 
 ### Author: Ange Uwimana
 
