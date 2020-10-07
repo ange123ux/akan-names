@@ -13,7 +13,7 @@ I consider myself as someone who is lucky because I grew up in a family where I 
 
 * installation of ubuntu
 * instaling git
-* signing up to github
+* signing up to github 
 * start using it
 ## Technologies Used
 I used programing languages to code my akan name page such as HTML language, js language and CSS for styling.
