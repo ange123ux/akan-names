@@ -18,6 +18,7 @@ I consider myself as someone who is lucky because I grew up in a family where I 
 {I used programing languages to code my portfolio, the HTML language and CASCADING STYLE SHEET for styling}
 ## Image
  <!-- ![ange](I can add any image) -->
+ <img src="images/smiling.jpg">
   ## PROJECTS THAT I DESIGNED
 [Cute Little Pets](https://ange123ux.github.io/cute-little-pets/)   
 [My portfolio](https://ange123ux.github.io/Portfolio/.)

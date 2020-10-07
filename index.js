@@ -11,74 +11,77 @@ function akanNames(){
     var day=parseFloat(( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) % 7)+1;
     var dayOfTheWeek= day.toFixed(0);
 
+    var akan;
+    var days;
  if (genders="Female" & dayOfTheWeek==0){
-    var akan=girlsNames[0];
-    var days=birthdayDay[0];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=girlsNames[0];
+        days=birthdayDay[0];
+    
  }
 else if (genders="Female" & dayOfTheWeek==1){
-    var akan=girlsNames[1];
-    var days=birthdayDay[1];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=girlsNames[1];
+        days=birthdayDay[1];
+    
 }
 else if (genders="Female" & dayOfTheWeek==2){
-    var akan=girlsNames[2];
-    var days=birthdayDay[2];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=girlsNames[2];
+        days=birthdayDay[2];
+   
 }
 else if (genders="Female" & dayOfTheWeek==3) {
-    var akan=girlsNames[3];
-    var days=birthdayDay[3];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=girlsNames[3];
+        days=birthdayDay[3];
+    
 }
 else if (genders="Female" & dayOfTheWeek==4) {
-    var akan=girlsNames[4];
-    var days=birthdayDay[4];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=girlsNames[4];
+        days=birthdayDay[4];
+   
 }
 else if (genders="Female" & dayOfTheWeek==5) {
-    var akan=girlsNames[5];
-    var days=birthdayDay[5];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=girlsNames[5];
+        days=birthdayDay[5];
+    
 }
 else (genders="Female" & dayOfTheWeek==6) {
-    var akan=girlsNames[6];
-    var days=birthdayDay[6];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=girlsNames[6];
+        days=birthdayDay[6];
+    
 }
 
 if (genders="male" & dayOfTheWeek==0){
-    var akan=boysNames[0];
-    var days=birthdayDay[0];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
-
+        akan=boysNames[0];
+        days=birthdayDay[0];
+    
+}
 else if (genders="male" & dayOfTheWeek==1){
-    var akan=boysNames[1];
-    var days=birthdayDay[1];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=boysNames[1];
+        days=birthdayDay[1];
+    
 }
 else if (genders="male" & dayOfTheWeek==2){
-    var akan=boysNames[2];
-    var days=birthdayDay[2];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        kan=boysNames[2];
+        days=birthdayDay[2];
+    
 }
 else if (genders="male" & dayOfTheWeek==3){
-    var akan=boysNames[3];
-    var days=birthdayDay[3];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=boysNames[3];
+        days=birthdayDay[3];
+    
 }
 else if (genders="male" & dayOfTheWeek==4){
-    var akan=boysNames[4];
-    var days=birthdayDay[4];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=boysNames[4];
+        days=birthdayDay[4];
+    
 }
 else if (genders="male" & dayOfTheWeek==5){
-    var akan=boysNames[5];
-    var days=birthdayDay[5];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
+        akan=boysNames[5];
+        days=birthdayDay[5];
+    
 }
 else (genders="male" & dayOfTheWeek==6){
-    var akan=boysNames[6];
-    var days=birthdayDay[6];
-    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;}
+        akan=boysNames[6];
+        days=birthdayDay[6];
+}
+    document.getElementById('display').innerHTML= "You were born on " + " " + days + " and your Akan Name is " + " " + akan;
 }
