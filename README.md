@@ -6,7 +6,7 @@ Akan names are the names that are commonly found in Ghanaian culture and for the
 ### Author: Ange Uwimana
 
 ## About me
-
+[[ange123ux](https://github.com/ange123ux/akan-names)]
 I consider myself as someone who is lucky because I grew up in a family where I am the first person to take programming classes. Currently, I am a student in Southern New Hampshire University and I am doing Communications in Business. Having a Software Developer degree will be an added advantage to my career, and I can't wait to make that big step in my life. 
 
 ## Setup/Installation Requirements
@@ -19,9 +19,7 @@ I consider myself as someone who is lucky because I grew up in a family where I 
 I used programing languages to code my akan name page such as HTML language, js language and CSS for styling.
 
   ## PROJECTS THAT I DESIGNED
-[Cute Little Pets](https://ange123ux.github.io/cute-little-pets/)   
-[My portfolio](https://ange123ux.github.io/Portfolio/.)
-
+[my Akan name project](https://ange123ux.github.io/akan-names/)
 ## License Hellow
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
