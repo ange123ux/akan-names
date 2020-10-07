@@ -26,7 +26,11 @@ body{
     background-repeat: no-repeat;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
-    
+    font-size: 15px;
+}
+p{
+    line-height: 1.5;
+    letter-spacing: 3px;
 }
 
     
