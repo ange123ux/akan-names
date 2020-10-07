@@ -46,7 +46,7 @@ else if (genders="Female" & dayOfTheWeek==5) {
 else (genders="Female" & dayOfTheWeek==6) {
         akan=girlsNames[6];
         days=birthdayDay[6];
-    
+
 }
 
 if (genders="male" & dayOfTheWeek==0){
